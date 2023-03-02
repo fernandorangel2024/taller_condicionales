@@ -1,8 +1,8 @@
-# Pedimos al usuario que ingrese las coordenadas cartesianas (x,y) del punto
+# Pido que ingrese las coordenadas cartesianas (x,y) del punto
 x = float(input("Ingrese la coordenada x: "))
 y = float(input("Ingrese la coordenada y: "))
 
-# Verificamos en qué cuadrante se encuentra el punto
+# Verifico en qué cuadrante se encuentra el punto
 if x > 0 and y > 0:
     print("El punto se encuentra en el primer cuadrante.")
 elif x < 0 and y > 0:
