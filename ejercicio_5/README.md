@@ -1,3 +1,4 @@
-#EJERCICIO 2
+# taller condicionales
+
 # Diagrama de flujo
 ![Diagrama de flujo](diagrama.png "Diagrama de flujo")

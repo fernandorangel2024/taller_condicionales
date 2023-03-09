@@ -1,4 +1,4 @@
-# Definición de variables
+# programa que solicita los ingresos mensuales y si tiene deuda actualmente
 ingresos = float(input("Ingrese sus ingresos mensuales: "))
 deuda = input("¿Tiene alguna deuda actualmente? (Sí/No): ")
 

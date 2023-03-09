@@ -1,4 +1,4 @@
-# Pido que ingrese las coordenadas cartesianas (x,y) del punto
+# Programa que pide al usuario las coordenadas de un punto y muestra en qué cuadrante se encuentra.
 x = float(input("Ingrese la coordenada x: "))
 y = float(input("Ingrese la coordenada y: "))
 
